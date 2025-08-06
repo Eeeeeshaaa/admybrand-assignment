@@ -1,4 +1,7 @@
 # admybrand-assignment
+A responsive, modern analytics dashboard built with Next.js 14, Chakra UI for styling, and Recharts for data visualization. The dashboard displays line, bar, and pie charts along with KPIs like revenue and user growth.
+Includes potential for AI-powered insights and automated reporting.
+
 AI Usage Report 
 1. Project Overview:
 -Built an interactive dashboard using Next.js with UI powered by Chakra UI.
